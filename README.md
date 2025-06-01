@@ -9,8 +9,8 @@ four 7-segment LED displays to be controlled via parallel microprocessor
 interface.
 
 This project combines the 40-pin PDIP package for the ICM7212M along with
-a trim pot, on a 70mm x 50mm board with either pin headers or pin sockets 
-for the bus interface. This allows the ICM7212M to be connected directly
-to the bus of a computer system, addressed like any other I/O device, and
-thus providing an easy-to-use hardware display for debugging, status, or
-other applications.
+four 7-segment LED displays, and a trim pot, on a 70mm x 50mm board with 
+either pin headers or pin sockets for the bus interface. This allows the 
+ICM7212M to be connected directly to the bus of a computer system, 
+addressed like any other I/O device, and thus providing an easy-to-use 
+hardware display for debugging, status, or other applications.
