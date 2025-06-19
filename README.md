@@ -1,4 +1,4 @@
-icm7212-display
+icm7212m-display
 ===============
 
 A four-digit LED display module based around the Maxim 7212M display
@@ -14,3 +14,5 @@ either pin headers or pin sockets for the bus interface. This allows the
 ICM7212M to be connected directly to the bus of a computer system, 
 addressed like any other I/O device, and thus providing an easy-to-use 
 hardware display for debugging, status, or other applications.
+
+![ICM7212M Display](icm7212m-display.png)
